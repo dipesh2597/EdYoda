@@ -1,0 +1,3 @@
+Writing in Read and write mode
+second lin
+third line
