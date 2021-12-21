@@ -1,0 +1,19 @@
+Installation: pip install pytest
+Running then test file: py.test filename.py
+Filtering the test case by name/substring: py.test filename.py -k <filter_string>
+
+
+test_case_1
+test_method_1
+
+Q. Give me the names which have case in thier name?
+A. test_case_1
+
+Filter test case by mark: py.test filename.py -m <mark_name>
+
+
+#Debugging
+
+whatis <variable_name>/object : Getting type of varibale
+n: for going into the next line
+c: Run remainning part of code till end of the file or next breakpoint()
