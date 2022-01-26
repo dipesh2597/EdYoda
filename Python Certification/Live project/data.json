@@ -1,0 +1,12 @@
+[
+  {"name": "iphone11","price":  55000},
+  {"name": "iphone11 Pro","price":  65000},
+  {"name": "iphone11 Pro Max","price":  85000},
+  {"name": "iphone12 mini","price":  65000},
+  {"name": "iphone12","price":  75000},
+  {"name": "iphone12 Pro","price":  85000},
+  {"name": "iphone12 Pro Max","price":  95000},
+  {"name": "iphone13","price":  85000},
+  {"name": "iphone13 Pro","price":  95000},
+  {"name": "iphone13 Pro Max","price":  105000}
+]
